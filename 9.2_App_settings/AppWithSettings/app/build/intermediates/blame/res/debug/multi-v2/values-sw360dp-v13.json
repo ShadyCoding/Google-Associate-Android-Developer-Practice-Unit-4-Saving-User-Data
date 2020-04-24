@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "D:\\AndroidStudioProjects\\Android-Developer-Fundamentals-Version-2-master-Solutions of CC and HW\\9.2_App_settings\\AppWithSettings\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-sw360dp-v13\\values-sw360dp-v13.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\shady\\.gradle\\caches\\transforms-2\\files-2.1\\539f3fb6d9341e77fc0b6bb3a1088615\\preference-v7-28.0.0\\res\\values-sw360dp-v13\\values-sw360dp-v13.xml",
+                    "from": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,127",
+                        "endColumns": "71,64",
+                        "endOffsets": "122,187"
+                    }
+                }
+            ]
+        }
+    ]
+}

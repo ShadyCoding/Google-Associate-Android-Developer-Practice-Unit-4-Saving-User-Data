@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ScoreKeeperHWSharedPref.iml" filepath="$PROJECT_DIR$/ScoreKeeperHWSharedPref.iml" group="ScoreKeeperHWSharedPref" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" group="ScoreKeeperHWSharedPref/app" />
+    </modules>
+  </component>
+</project>

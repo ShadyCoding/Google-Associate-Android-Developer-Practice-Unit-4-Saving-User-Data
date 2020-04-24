@@ -1,0 +1,4 @@
+#Thu Apr 23 20:20:33 PKT 2020
+base.0=D\:\\AndroidStudioProjects\\Android-Developer-Fundamentals-Version-2-master-Solutions of CC and HW\\9.1_Shared_preferences\\ScoreKeeperHWSharedPref\\app\\build\\intermediates\\dex\\debug\\out\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

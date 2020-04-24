@@ -1,0 +1,75 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.shady.droidcafewithsettingsandroidxhw"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="21"
+8-->D:\AndroidStudioProjects\Android-Developer-Fundamentals-Version-2-master-Solutions of CC and HW\9.2_App_settings\DroidCafeWithSettingsAndroidXHW\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="28" />
+9-->D:\AndroidStudioProjects\Android-Developer-Fundamentals-Version-2-master-Solutions of CC and HW\9.2_App_settings\DroidCafeWithSettingsAndroidXHW\app\src\main\AndroidManifest.xml
+10
+11    <application
+11-->D:\AndroidStudioProjects\Android-Developer-Fundamentals-Version-2-master-Solutions of CC and HW\9.2_App_settings\DroidCafeWithSettingsAndroidXHW\app\src\main\AndroidManifest.xml:6:5-36:19
+12        android:allowBackup="true"
+12-->D:\AndroidStudioProjects\Android-Developer-Fundamentals-Version-2-master-Solutions of CC and HW\9.2_App_settings\DroidCafeWithSettingsAndroidXHW\app\src\main\AndroidManifest.xml:7:9-35
+13        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+13-->[androidx.core:core:1.1.0-beta01] C:\Users\shady\.gradle\caches\transforms-2\files-2.1\a04e13c93b784f3c9f47c97340454b21\core-1.1.0-beta01\AndroidManifest.xml:22:18-86
+14        android:debuggable="true"
+15        android:icon="@mipmap/ic_launcher"
+15-->D:\AndroidStudioProjects\Android-Developer-Fundamentals-Version-2-master-Solutions of CC and HW\9.2_App_settings\DroidCafeWithSettingsAndroidXHW\app\src\main\AndroidManifest.xml:8:9-43
+16        android:label="@string/app_name"
+16-->D:\AndroidStudioProjects\Android-Developer-Fundamentals-Version-2-master-Solutions of CC and HW\9.2_App_settings\DroidCafeWithSettingsAndroidXHW\app\src\main\AndroidManifest.xml:9:9-41
+17        android:roundIcon="@mipmap/ic_launcher_round"
+17-->D:\AndroidStudioProjects\Android-Developer-Fundamentals-Version-2-master-Solutions of CC and HW\9.2_App_settings\DroidCafeWithSettingsAndroidXHW\app\src\main\AndroidManifest.xml:10:9-54
+18        android:supportsRtl="true"
+18-->D:\AndroidStudioProjects\Android-Developer-Fundamentals-Version-2-master-Solutions of CC and HW\9.2_App_settings\DroidCafeWithSettingsAndroidXHW\app\src\main\AndroidManifest.xml:11:9-35
+19        android:testOnly="true"
+20        android:theme="@style/AppTheme" >
+20-->D:\AndroidStudioProjects\Android-Developer-Fundamentals-Version-2-master-Solutions of CC and HW\9.2_App_settings\DroidCafeWithSettingsAndroidXHW\app\src\main\AndroidManifest.xml:12:9-40
+21        <activity
+21-->D:\AndroidStudioProjects\Android-Developer-Fundamentals-Version-2-master-Solutions of CC and HW\9.2_App_settings\DroidCafeWithSettingsAndroidXHW\app\src\main\AndroidManifest.xml:14:9-21:20
+22            android:name="com.shady.droidcafewithsettingsandroidxhw.SettingsActivity"
+22-->D:\AndroidStudioProjects\Android-Developer-Fundamentals-Version-2-master-Solutions of CC and HW\9.2_App_settings\DroidCafeWithSettingsAndroidXHW\app\src\main\AndroidManifest.xml:15:13-86
+23            android:label="@string/title_activity_settings"
+23-->D:\AndroidStudioProjects\Android-Developer-Fundamentals-Version-2-master-Solutions of CC and HW\9.2_App_settings\DroidCafeWithSettingsAndroidXHW\app\src\main\AndroidManifest.xml:16:13-60
+24            android:parentActivityName="com.shady.droidcafewithsettingsandroidxhw.MainActivity" >
+24-->D:\AndroidStudioProjects\Android-Developer-Fundamentals-Version-2-master-Solutions of CC and HW\9.2_App_settings\DroidCafeWithSettingsAndroidXHW\app\src\main\AndroidManifest.xml:17:13-96
+25            <meta-data
+25-->D:\AndroidStudioProjects\Android-Developer-Fundamentals-Version-2-master-Solutions of CC and HW\9.2_App_settings\DroidCafeWithSettingsAndroidXHW\app\src\main\AndroidManifest.xml:18:13-20:90
+26                android:name="android.support.PARENT_ACTIVITY"
+26-->D:\AndroidStudioProjects\Android-Developer-Fundamentals-Version-2-master-Solutions of CC and HW\9.2_App_settings\DroidCafeWithSettingsAndroidXHW\app\src\main\AndroidManifest.xml:19:17-63
+27                android:value="com.shady.droidcafewithsettingsandroidxhw.MainActivity" />
+27-->D:\AndroidStudioProjects\Android-Developer-Fundamentals-Version-2-master-Solutions of CC and HW\9.2_App_settings\DroidCafeWithSettingsAndroidXHW\app\src\main\AndroidManifest.xml:20:17-87
+28        </activity>
+29        <activity
+29-->D:\AndroidStudioProjects\Android-Developer-Fundamentals-Version-2-master-Solutions of CC and HW\9.2_App_settings\DroidCafeWithSettingsAndroidXHW\app\src\main\AndroidManifest.xml:22:9-31:20
+30            android:name="com.shady.droidcafewithsettingsandroidxhw.MainActivity"
+30-->D:\AndroidStudioProjects\Android-Developer-Fundamentals-Version-2-master-Solutions of CC and HW\9.2_App_settings\DroidCafeWithSettingsAndroidXHW\app\src\main\AndroidManifest.xml:23:13-82
+31            android:label="@string/app_name"
+31-->D:\AndroidStudioProjects\Android-Developer-Fundamentals-Version-2-master-Solutions of CC and HW\9.2_App_settings\DroidCafeWithSettingsAndroidXHW\app\src\main\AndroidManifest.xml:24:13-45
+32            android:theme="@style/AppTheme.NoActionBar" >
+32-->D:\AndroidStudioProjects\Android-Developer-Fundamentals-Version-2-master-Solutions of CC and HW\9.2_App_settings\DroidCafeWithSettingsAndroidXHW\app\src\main\AndroidManifest.xml:25:13-56
+33            <intent-filter>
+33-->D:\AndroidStudioProjects\Android-Developer-Fundamentals-Version-2-master-Solutions of CC and HW\9.2_App_settings\DroidCafeWithSettingsAndroidXHW\app\src\main\AndroidManifest.xml:26:13-30:29
+34                <action android:name="android.intent.action.MAIN" />
+34-->D:\AndroidStudioProjects\Android-Developer-Fundamentals-Version-2-master-Solutions of CC and HW\9.2_App_settings\DroidCafeWithSettingsAndroidXHW\app\src\main\AndroidManifest.xml:27:17-69
+34-->D:\AndroidStudioProjects\Android-Developer-Fundamentals-Version-2-master-Solutions of CC and HW\9.2_App_settings\DroidCafeWithSettingsAndroidXHW\app\src\main\AndroidManifest.xml:27:25-66
+35
+36                <category android:name="android.intent.category.LAUNCHER" />
+36-->D:\AndroidStudioProjects\Android-Developer-Fundamentals-Version-2-master-Solutions of CC and HW\9.2_App_settings\DroidCafeWithSettingsAndroidXHW\app\src\main\AndroidManifest.xml:29:17-77
+36-->D:\AndroidStudioProjects\Android-Developer-Fundamentals-Version-2-master-Solutions of CC and HW\9.2_App_settings\DroidCafeWithSettingsAndroidXHW\app\src\main\AndroidManifest.xml:29:27-74
+37            </intent-filter>
+38        </activity>
+39        <activity
+39-->D:\AndroidStudioProjects\Android-Developer-Fundamentals-Version-2-master-Solutions of CC and HW\9.2_App_settings\DroidCafeWithSettingsAndroidXHW\app\src\main\AndroidManifest.xml:32:9-35:99
+40            android:name="com.shady.droidcafewithsettingsandroidxhw.OrderActivity"
+40-->D:\AndroidStudioProjects\Android-Developer-Fundamentals-Version-2-master-Solutions of CC and HW\9.2_App_settings\DroidCafeWithSettingsAndroidXHW\app\src\main\AndroidManifest.xml:33:13-83
+41            android:label="@string/title_activity_order"
+41-->D:\AndroidStudioProjects\Android-Developer-Fundamentals-Version-2-master-Solutions of CC and HW\9.2_App_settings\DroidCafeWithSettingsAndroidXHW\app\src\main\AndroidManifest.xml:34:13-57
+42            android:parentActivityName="com.shady.droidcafewithsettingsandroidxhw.MainActivity" />
+42-->D:\AndroidStudioProjects\Android-Developer-Fundamentals-Version-2-master-Solutions of CC and HW\9.2_App_settings\DroidCafeWithSettingsAndroidXHW\app\src\main\AndroidManifest.xml:35:13-96
+43    </application>
+44
+45</manifest>

@@ -1,0 +1,198 @@
+[
+    {
+        "merged": "D:\\AndroidStudioProjects\\Android-Developer-Fundamentals-Version-2-master-Solutions of CC and HW\\9.2_App_settings\\DroidCafeWithSettingsAndroidXHW\\app\\build\\intermediates\\res\\merged\\debug\\xml_sync_preferences.xml.flat",
+        "source": "D:\\AndroidStudioProjects\\Android-Developer-Fundamentals-Version-2-master-Solutions of CC and HW\\9.2_App_settings\\DroidCafeWithSettingsAndroidXHW\\app\\src\\main\\res\\xml\\sync_preferences.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\Android-Developer-Fundamentals-Version-2-master-Solutions of CC and HW\\9.2_App_settings\\DroidCafeWithSettingsAndroidXHW\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi_ic_map.xml.flat",
+        "source": "D:\\AndroidStudioProjects\\Android-Developer-Fundamentals-Version-2-master-Solutions of CC and HW\\9.2_App_settings\\DroidCafeWithSettingsAndroidXHW\\app\\src\\main\\res\\drawable-anydpi\\ic_map.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\Android-Developer-Fundamentals-Version-2-master-Solutions of CC and HW\\9.2_App_settings\\DroidCafeWithSettingsAndroidXHW\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "D:\\AndroidStudioProjects\\Android-Developer-Fundamentals-Version-2-master-Solutions of CC and HW\\9.2_App_settings\\DroidCafeWithSettingsAndroidXHW\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\Android-Developer-Fundamentals-Version-2-master-Solutions of CC and HW\\9.2_App_settings\\DroidCafeWithSettingsAndroidXHW\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_map.png.flat",
+        "source": "D:\\AndroidStudioProjects\\Android-Developer-Fundamentals-Version-2-master-Solutions of CC and HW\\9.2_App_settings\\DroidCafeWithSettingsAndroidXHW\\app\\src\\main\\res\\drawable-xhdpi\\ic_map.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\Android-Developer-Fundamentals-Version-2-master-Solutions of CC and HW\\9.2_App_settings\\DroidCafeWithSettingsAndroidXHW\\app\\build\\intermediates\\res\\merged\\debug\\drawable_froyo_circle.png.flat",
+        "source": "D:\\AndroidStudioProjects\\Android-Developer-Fundamentals-Version-2-master-Solutions of CC and HW\\9.2_App_settings\\DroidCafeWithSettingsAndroidXHW\\app\\src\\main\\res\\drawable\\froyo_circle.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\Android-Developer-Fundamentals-Version-2-master-Solutions of CC and HW\\9.2_App_settings\\DroidCafeWithSettingsAndroidXHW\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "D:\\AndroidStudioProjects\\Android-Developer-Fundamentals-Version-2-master-Solutions of CC and HW\\9.2_App_settings\\DroidCafeWithSettingsAndroidXHW\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\Android-Developer-Fundamentals-Version-2-master-Solutions of CC and HW\\9.2_App_settings\\DroidCafeWithSettingsAndroidXHW\\app\\build\\intermediates\\res\\merged\\debug\\xml_general_preferences.xml.flat",
+        "source": "D:\\AndroidStudioProjects\\Android-Developer-Fundamentals-Version-2-master-Solutions of CC and HW\\9.2_App_settings\\DroidCafeWithSettingsAndroidXHW\\app\\src\\main\\res\\xml\\general_preferences.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\Android-Developer-Fundamentals-Version-2-master-Solutions of CC and HW\\9.2_App_settings\\DroidCafeWithSettingsAndroidXHW\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "D:\\AndroidStudioProjects\\Android-Developer-Fundamentals-Version-2-master-Solutions of CC and HW\\9.2_App_settings\\DroidCafeWithSettingsAndroidXHW\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\Android-Developer-Fundamentals-Version-2-master-Solutions of CC and HW\\9.2_App_settings\\DroidCafeWithSettingsAndroidXHW\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_status_info.png.flat",
+        "source": "D:\\AndroidStudioProjects\\Android-Developer-Fundamentals-Version-2-master-Solutions of CC and HW\\9.2_App_settings\\DroidCafeWithSettingsAndroidXHW\\app\\src\\main\\res\\drawable-hdpi\\ic_status_info.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\Android-Developer-Fundamentals-Version-2-master-Solutions of CC and HW\\9.2_App_settings\\DroidCafeWithSettingsAndroidXHW\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_favourite.png.flat",
+        "source": "D:\\AndroidStudioProjects\\Android-Developer-Fundamentals-Version-2-master-Solutions of CC and HW\\9.2_App_settings\\DroidCafeWithSettingsAndroidXHW\\app\\src\\main\\res\\drawable-hdpi\\ic_favourite.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\Android-Developer-Fundamentals-Version-2-master-Solutions of CC and HW\\9.2_App_settings\\DroidCafeWithSettingsAndroidXHW\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "D:\\AndroidStudioProjects\\Android-Developer-Fundamentals-Version-2-master-Solutions of CC and HW\\9.2_App_settings\\DroidCafeWithSettingsAndroidXHW\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\Android-Developer-Fundamentals-Version-2-master-Solutions of CC and HW\\9.2_App_settings\\DroidCafeWithSettingsAndroidXHW\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_status_info.png.flat",
+        "source": "D:\\AndroidStudioProjects\\Android-Developer-Fundamentals-Version-2-master-Solutions of CC and HW\\9.2_App_settings\\DroidCafeWithSettingsAndroidXHW\\app\\src\\main\\res\\drawable-mdpi\\ic_status_info.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\Android-Developer-Fundamentals-Version-2-master-Solutions of CC and HW\\9.2_App_settings\\DroidCafeWithSettingsAndroidXHW\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_order.xml.flat",
+        "source": "D:\\AndroidStudioProjects\\Android-Developer-Fundamentals-Version-2-master-Solutions of CC and HW\\9.2_App_settings\\DroidCafeWithSettingsAndroidXHW\\app\\src\\main\\res\\layout\\activity_order.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\Android-Developer-Fundamentals-Version-2-master-Solutions of CC and HW\\9.2_App_settings\\DroidCafeWithSettingsAndroidXHW\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "D:\\AndroidStudioProjects\\Android-Developer-Fundamentals-Version-2-master-Solutions of CC and HW\\9.2_App_settings\\DroidCafeWithSettingsAndroidXHW\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\Android-Developer-Fundamentals-Version-2-master-Solutions of CC and HW\\9.2_App_settings\\DroidCafeWithSettingsAndroidXHW\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_shopping_cart.png.flat",
+        "source": "D:\\AndroidStudioProjects\\Android-Developer-Fundamentals-Version-2-master-Solutions of CC and HW\\9.2_App_settings\\DroidCafeWithSettingsAndroidXHW\\app\\src\\main\\res\\drawable-xxhdpi\\ic_shopping_cart.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\Android-Developer-Fundamentals-Version-2-master-Solutions of CC and HW\\9.2_App_settings\\DroidCafeWithSettingsAndroidXHW\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "D:\\AndroidStudioProjects\\Android-Developer-Fundamentals-Version-2-master-Solutions of CC and HW\\9.2_App_settings\\DroidCafeWithSettingsAndroidXHW\\app\\src\\main\\res\\drawable-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\Android-Developer-Fundamentals-Version-2-master-Solutions of CC and HW\\9.2_App_settings\\DroidCafeWithSettingsAndroidXHW\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_shopping_cart.png.flat",
+        "source": "D:\\AndroidStudioProjects\\Android-Developer-Fundamentals-Version-2-master-Solutions of CC and HW\\9.2_App_settings\\DroidCafeWithSettingsAndroidXHW\\app\\src\\main\\res\\drawable-mdpi\\ic_shopping_cart.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\Android-Developer-Fundamentals-Version-2-master-Solutions of CC and HW\\9.2_App_settings\\DroidCafeWithSettingsAndroidXHW\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_map.png.flat",
+        "source": "D:\\AndroidStudioProjects\\Android-Developer-Fundamentals-Version-2-master-Solutions of CC and HW\\9.2_App_settings\\DroidCafeWithSettingsAndroidXHW\\app\\src\\main\\res\\drawable-mdpi\\ic_map.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\Android-Developer-Fundamentals-Version-2-master-Solutions of CC and HW\\9.2_App_settings\\DroidCafeWithSettingsAndroidXHW\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi_ic_status_info.xml.flat",
+        "source": "D:\\AndroidStudioProjects\\Android-Developer-Fundamentals-Version-2-master-Solutions of CC and HW\\9.2_App_settings\\DroidCafeWithSettingsAndroidXHW\\app\\src\\main\\res\\drawable-anydpi\\ic_status_info.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\Android-Developer-Fundamentals-Version-2-master-Solutions of CC and HW\\9.2_App_settings\\DroidCafeWithSettingsAndroidXHW\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_map.png.flat",
+        "source": "D:\\AndroidStudioProjects\\Android-Developer-Fundamentals-Version-2-master-Solutions of CC and HW\\9.2_App_settings\\DroidCafeWithSettingsAndroidXHW\\app\\src\\main\\res\\drawable-hdpi\\ic_map.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\Android-Developer-Fundamentals-Version-2-master-Solutions of CC and HW\\9.2_App_settings\\DroidCafeWithSettingsAndroidXHW\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "D:\\AndroidStudioProjects\\Android-Developer-Fundamentals-Version-2-master-Solutions of CC and HW\\9.2_App_settings\\DroidCafeWithSettingsAndroidXHW\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\Android-Developer-Fundamentals-Version-2-master-Solutions of CC and HW\\9.2_App_settings\\DroidCafeWithSettingsAndroidXHW\\app\\build\\intermediates\\res\\merged\\debug\\xml_header_preferences.xml.flat",
+        "source": "D:\\AndroidStudioProjects\\Android-Developer-Fundamentals-Version-2-master-Solutions of CC and HW\\9.2_App_settings\\DroidCafeWithSettingsAndroidXHW\\app\\src\\main\\res\\xml\\header_preferences.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\Android-Developer-Fundamentals-Version-2-master-Solutions of CC and HW\\9.2_App_settings\\DroidCafeWithSettingsAndroidXHW\\app\\build\\intermediates\\res\\merged\\debug\\drawable_icecream_circle.png.flat",
+        "source": "D:\\AndroidStudioProjects\\Android-Developer-Fundamentals-Version-2-master-Solutions of CC and HW\\9.2_App_settings\\DroidCafeWithSettingsAndroidXHW\\app\\src\\main\\res\\drawable\\icecream_circle.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\Android-Developer-Fundamentals-Version-2-master-Solutions of CC and HW\\9.2_App_settings\\DroidCafeWithSettingsAndroidXHW\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_favourite.png.flat",
+        "source": "D:\\AndroidStudioProjects\\Android-Developer-Fundamentals-Version-2-master-Solutions of CC and HW\\9.2_App_settings\\DroidCafeWithSettingsAndroidXHW\\app\\src\\main\\res\\drawable-xxhdpi\\ic_favourite.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\Android-Developer-Fundamentals-Version-2-master-Solutions of CC and HW\\9.2_App_settings\\DroidCafeWithSettingsAndroidXHW\\app\\build\\intermediates\\res\\merged\\debug\\xml_notification_preferences.xml.flat",
+        "source": "D:\\AndroidStudioProjects\\Android-Developer-Fundamentals-Version-2-master-Solutions of CC and HW\\9.2_App_settings\\DroidCafeWithSettingsAndroidXHW\\app\\src\\main\\res\\xml\\notification_preferences.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\Android-Developer-Fundamentals-Version-2-master-Solutions of CC and HW\\9.2_App_settings\\DroidCafeWithSettingsAndroidXHW\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_map.png.flat",
+        "source": "D:\\AndroidStudioProjects\\Android-Developer-Fundamentals-Version-2-master-Solutions of CC and HW\\9.2_App_settings\\DroidCafeWithSettingsAndroidXHW\\app\\src\\main\\res\\drawable-xxhdpi\\ic_map.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\Android-Developer-Fundamentals-Version-2-master-Solutions of CC and HW\\9.2_App_settings\\DroidCafeWithSettingsAndroidXHW\\app\\build\\intermediates\\res\\merged\\debug\\drawable_donut_circle.png.flat",
+        "source": "D:\\AndroidStudioProjects\\Android-Developer-Fundamentals-Version-2-master-Solutions of CC and HW\\9.2_App_settings\\DroidCafeWithSettingsAndroidXHW\\app\\src\\main\\res\\drawable\\donut_circle.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\Android-Developer-Fundamentals-Version-2-master-Solutions of CC and HW\\9.2_App_settings\\DroidCafeWithSettingsAndroidXHW\\app\\build\\intermediates\\res\\merged\\debug\\drawable_general_info.xml.flat",
+        "source": "D:\\AndroidStudioProjects\\Android-Developer-Fundamentals-Version-2-master-Solutions of CC and HW\\9.2_App_settings\\DroidCafeWithSettingsAndroidXHW\\app\\src\\main\\res\\drawable\\general_info.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\Android-Developer-Fundamentals-Version-2-master-Solutions of CC and HW\\9.2_App_settings\\DroidCafeWithSettingsAndroidXHW\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_launcher_background.xml.flat",
+        "source": "D:\\AndroidStudioProjects\\Android-Developer-Fundamentals-Version-2-master-Solutions of CC and HW\\9.2_App_settings\\DroidCafeWithSettingsAndroidXHW\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\Android-Developer-Fundamentals-Version-2-master-Solutions of CC and HW\\9.2_App_settings\\DroidCafeWithSettingsAndroidXHW\\app\\build\\intermediates\\res\\merged\\debug\\drawable_messages.xml.flat",
+        "source": "D:\\AndroidStudioProjects\\Android-Developer-Fundamentals-Version-2-master-Solutions of CC and HW\\9.2_App_settings\\DroidCafeWithSettingsAndroidXHW\\app\\src\\main\\res\\drawable\\messages.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\Android-Developer-Fundamentals-Version-2-master-Solutions of CC and HW\\9.2_App_settings\\DroidCafeWithSettingsAndroidXHW\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "D:\\AndroidStudioProjects\\Android-Developer-Fundamentals-Version-2-master-Solutions of CC and HW\\9.2_App_settings\\DroidCafeWithSettingsAndroidXHW\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\Android-Developer-Fundamentals-Version-2-master-Solutions of CC and HW\\9.2_App_settings\\DroidCafeWithSettingsAndroidXHW\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_shopping_cart.png.flat",
+        "source": "D:\\AndroidStudioProjects\\Android-Developer-Fundamentals-Version-2-master-Solutions of CC and HW\\9.2_App_settings\\DroidCafeWithSettingsAndroidXHW\\app\\src\\main\\res\\drawable-hdpi\\ic_shopping_cart.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\Android-Developer-Fundamentals-Version-2-master-Solutions of CC and HW\\9.2_App_settings\\DroidCafeWithSettingsAndroidXHW\\app\\build\\intermediates\\res\\merged\\debug\\layout_content_main.xml.flat",
+        "source": "D:\\AndroidStudioProjects\\Android-Developer-Fundamentals-Version-2-master-Solutions of CC and HW\\9.2_App_settings\\DroidCafeWithSettingsAndroidXHW\\app\\src\\main\\res\\layout\\content_main.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\Android-Developer-Fundamentals-Version-2-master-Solutions of CC and HW\\9.2_App_settings\\DroidCafeWithSettingsAndroidXHW\\app\\build\\intermediates\\res\\merged\\debug\\menu_menu_main.xml.flat",
+        "source": "D:\\AndroidStudioProjects\\Android-Developer-Fundamentals-Version-2-master-Solutions of CC and HW\\9.2_App_settings\\DroidCafeWithSettingsAndroidXHW\\app\\src\\main\\res\\menu\\menu_main.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\Android-Developer-Fundamentals-Version-2-master-Solutions of CC and HW\\9.2_App_settings\\DroidCafeWithSettingsAndroidXHW\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "D:\\AndroidStudioProjects\\Android-Developer-Fundamentals-Version-2-master-Solutions of CC and HW\\9.2_App_settings\\DroidCafeWithSettingsAndroidXHW\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\Android-Developer-Fundamentals-Version-2-master-Solutions of CC and HW\\9.2_App_settings\\DroidCafeWithSettingsAndroidXHW\\app\\build\\intermediates\\res\\merged\\debug\\drawable_sync.xml.flat",
+        "source": "D:\\AndroidStudioProjects\\Android-Developer-Fundamentals-Version-2-master-Solutions of CC and HW\\9.2_App_settings\\DroidCafeWithSettingsAndroidXHW\\app\\src\\main\\res\\drawable\\sync.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\Android-Developer-Fundamentals-Version-2-master-Solutions of CC and HW\\9.2_App_settings\\DroidCafeWithSettingsAndroidXHW\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_status_info.png.flat",
+        "source": "D:\\AndroidStudioProjects\\Android-Developer-Fundamentals-Version-2-master-Solutions of CC and HW\\9.2_App_settings\\DroidCafeWithSettingsAndroidXHW\\app\\src\\main\\res\\drawable-xhdpi\\ic_status_info.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\Android-Developer-Fundamentals-Version-2-master-Solutions of CC and HW\\9.2_App_settings\\DroidCafeWithSettingsAndroidXHW\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "D:\\AndroidStudioProjects\\Android-Developer-Fundamentals-Version-2-master-Solutions of CC and HW\\9.2_App_settings\\DroidCafeWithSettingsAndroidXHW\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\Android-Developer-Fundamentals-Version-2-master-Solutions of CC and HW\\9.2_App_settings\\DroidCafeWithSettingsAndroidXHW\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_favourite.png.flat",
+        "source": "D:\\AndroidStudioProjects\\Android-Developer-Fundamentals-Version-2-master-Solutions of CC and HW\\9.2_App_settings\\DroidCafeWithSettingsAndroidXHW\\app\\src\\main\\res\\drawable-mdpi\\ic_favourite.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\Android-Developer-Fundamentals-Version-2-master-Solutions of CC and HW\\9.2_App_settings\\DroidCafeWithSettingsAndroidXHW\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "D:\\AndroidStudioProjects\\Android-Developer-Fundamentals-Version-2-master-Solutions of CC and HW\\9.2_App_settings\\DroidCafeWithSettingsAndroidXHW\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\Android-Developer-Fundamentals-Version-2-master-Solutions of CC and HW\\9.2_App_settings\\DroidCafeWithSettingsAndroidXHW\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_status_info.png.flat",
+        "source": "D:\\AndroidStudioProjects\\Android-Developer-Fundamentals-Version-2-master-Solutions of CC and HW\\9.2_App_settings\\DroidCafeWithSettingsAndroidXHW\\app\\src\\main\\res\\drawable-xxhdpi\\ic_status_info.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\Android-Developer-Fundamentals-Version-2-master-Solutions of CC and HW\\9.2_App_settings\\DroidCafeWithSettingsAndroidXHW\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "D:\\AndroidStudioProjects\\Android-Developer-Fundamentals-Version-2-master-Solutions of CC and HW\\9.2_App_settings\\DroidCafeWithSettingsAndroidXHW\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\Android-Developer-Fundamentals-Version-2-master-Solutions of CC and HW\\9.2_App_settings\\DroidCafeWithSettingsAndroidXHW\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_favourite.png.flat",
+        "source": "D:\\AndroidStudioProjects\\Android-Developer-Fundamentals-Version-2-master-Solutions of CC and HW\\9.2_App_settings\\DroidCafeWithSettingsAndroidXHW\\app\\src\\main\\res\\drawable-xhdpi\\ic_favourite.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\Android-Developer-Fundamentals-Version-2-master-Solutions of CC and HW\\9.2_App_settings\\DroidCafeWithSettingsAndroidXHW\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi_ic_favourite.xml.flat",
+        "source": "D:\\AndroidStudioProjects\\Android-Developer-Fundamentals-Version-2-master-Solutions of CC and HW\\9.2_App_settings\\DroidCafeWithSettingsAndroidXHW\\app\\src\\main\\res\\drawable-anydpi\\ic_favourite.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\Android-Developer-Fundamentals-Version-2-master-Solutions of CC and HW\\9.2_App_settings\\DroidCafeWithSettingsAndroidXHW\\app\\build\\intermediates\\res\\merged\\debug\\layout_settings_activity.xml.flat",
+        "source": "D:\\AndroidStudioProjects\\Android-Developer-Fundamentals-Version-2-master-Solutions of CC and HW\\9.2_App_settings\\DroidCafeWithSettingsAndroidXHW\\app\\src\\main\\res\\layout\\settings_activity.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\Android-Developer-Fundamentals-Version-2-master-Solutions of CC and HW\\9.2_App_settings\\DroidCafeWithSettingsAndroidXHW\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "D:\\AndroidStudioProjects\\Android-Developer-Fundamentals-Version-2-master-Solutions of CC and HW\\9.2_App_settings\\DroidCafeWithSettingsAndroidXHW\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\Android-Developer-Fundamentals-Version-2-master-Solutions of CC and HW\\9.2_App_settings\\DroidCafeWithSettingsAndroidXHW\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi_ic_shopping_cart.xml.flat",
+        "source": "D:\\AndroidStudioProjects\\Android-Developer-Fundamentals-Version-2-master-Solutions of CC and HW\\9.2_App_settings\\DroidCafeWithSettingsAndroidXHW\\app\\src\\main\\res\\drawable-anydpi\\ic_shopping_cart.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\Android-Developer-Fundamentals-Version-2-master-Solutions of CC and HW\\9.2_App_settings\\DroidCafeWithSettingsAndroidXHW\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_shopping_cart.png.flat",
+        "source": "D:\\AndroidStudioProjects\\Android-Developer-Fundamentals-Version-2-master-Solutions of CC and HW\\9.2_App_settings\\DroidCafeWithSettingsAndroidXHW\\app\\src\\main\\res\\drawable-xhdpi\\ic_shopping_cart.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\Android-Developer-Fundamentals-Version-2-master-Solutions of CC and HW\\9.2_App_settings\\DroidCafeWithSettingsAndroidXHW\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "D:\\AndroidStudioProjects\\Android-Developer-Fundamentals-Version-2-master-Solutions of CC and HW\\9.2_App_settings\\DroidCafeWithSettingsAndroidXHW\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    }
+]

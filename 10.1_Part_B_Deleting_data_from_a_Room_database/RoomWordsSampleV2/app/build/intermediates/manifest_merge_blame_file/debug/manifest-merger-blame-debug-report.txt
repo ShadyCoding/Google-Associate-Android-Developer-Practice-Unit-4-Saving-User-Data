@@ -1,0 +1,76 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.shady.roomwordssamplev2"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="21"
+8-->D:\AndroidStudioProjects\Android-Developer-Fundamentals-Version-2-master-Solutions of CC and HW\10.1_Part_B_Deleting_data_from_a_Room_database\RoomWordsSampleV2\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="28" />
+9-->D:\AndroidStudioProjects\Android-Developer-Fundamentals-Version-2-master-Solutions of CC and HW\10.1_Part_B_Deleting_data_from_a_Room_database\RoomWordsSampleV2\app\src\main\AndroidManifest.xml
+10
+11    <application
+11-->D:\AndroidStudioProjects\Android-Developer-Fundamentals-Version-2-master-Solutions of CC and HW\10.1_Part_B_Deleting_data_from_a_Room_database\RoomWordsSampleV2\app\src\main\AndroidManifest.xml:6:5-28:19
+12        android:allowBackup="true"
+12-->D:\AndroidStudioProjects\Android-Developer-Fundamentals-Version-2-master-Solutions of CC and HW\10.1_Part_B_Deleting_data_from_a_Room_database\RoomWordsSampleV2\app\src\main\AndroidManifest.xml:7:9-35
+13        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+13-->[androidx.core:core:1.0.1] C:\Users\shady\.gradle\caches\transforms-2\files-2.1\aa782ce88e4a65071c9b22f6f1fd262a\core-1.0.1\AndroidManifest.xml:22:18-86
+14        android:debuggable="true"
+15        android:icon="@mipmap/ic_launcher"
+15-->D:\AndroidStudioProjects\Android-Developer-Fundamentals-Version-2-master-Solutions of CC and HW\10.1_Part_B_Deleting_data_from_a_Room_database\RoomWordsSampleV2\app\src\main\AndroidManifest.xml:8:9-43
+16        android:label="@string/app_name"
+16-->D:\AndroidStudioProjects\Android-Developer-Fundamentals-Version-2-master-Solutions of CC and HW\10.1_Part_B_Deleting_data_from_a_Room_database\RoomWordsSampleV2\app\src\main\AndroidManifest.xml:9:9-41
+17        android:roundIcon="@mipmap/ic_launcher_round"
+17-->D:\AndroidStudioProjects\Android-Developer-Fundamentals-Version-2-master-Solutions of CC and HW\10.1_Part_B_Deleting_data_from_a_Room_database\RoomWordsSampleV2\app\src\main\AndroidManifest.xml:10:9-54
+18        android:supportsRtl="true"
+18-->D:\AndroidStudioProjects\Android-Developer-Fundamentals-Version-2-master-Solutions of CC and HW\10.1_Part_B_Deleting_data_from_a_Room_database\RoomWordsSampleV2\app\src\main\AndroidManifest.xml:11:9-35
+19        android:testOnly="true"
+20        android:theme="@style/AppTheme" >
+20-->D:\AndroidStudioProjects\Android-Developer-Fundamentals-Version-2-master-Solutions of CC and HW\10.1_Part_B_Deleting_data_from_a_Room_database\RoomWordsSampleV2\app\src\main\AndroidManifest.xml:12:9-40
+21        <activity
+21-->D:\AndroidStudioProjects\Android-Developer-Fundamentals-Version-2-master-Solutions of CC and HW\10.1_Part_B_Deleting_data_from_a_Room_database\RoomWordsSampleV2\app\src\main\AndroidManifest.xml:14:9-17:44
+22            android:name="com.shady.roomwordssamplev2.NewWordActivity"
+22-->D:\AndroidStudioProjects\Android-Developer-Fundamentals-Version-2-master-Solutions of CC and HW\10.1_Part_B_Deleting_data_from_a_Room_database\RoomWordsSampleV2\app\src\main\AndroidManifest.xml:15:13-71
+23            android:parentActivityName="com.shady.roomwordssamplev2.MainActivity" />
+23-->D:\AndroidStudioProjects\Android-Developer-Fundamentals-Version-2-master-Solutions of CC and HW\10.1_Part_B_Deleting_data_from_a_Room_database\RoomWordsSampleV2\app\src\main\AndroidManifest.xml:16:13-82
+24        <activity
+24-->D:\AndroidStudioProjects\Android-Developer-Fundamentals-Version-2-master-Solutions of CC and HW\10.1_Part_B_Deleting_data_from_a_Room_database\RoomWordsSampleV2\app\src\main\AndroidManifest.xml:18:9-27:20
+25            android:name="com.shady.roomwordssamplev2.MainActivity"
+25-->D:\AndroidStudioProjects\Android-Developer-Fundamentals-Version-2-master-Solutions of CC and HW\10.1_Part_B_Deleting_data_from_a_Room_database\RoomWordsSampleV2\app\src\main\AndroidManifest.xml:19:13-68
+26            android:label="@string/app_name"
+26-->D:\AndroidStudioProjects\Android-Developer-Fundamentals-Version-2-master-Solutions of CC and HW\10.1_Part_B_Deleting_data_from_a_Room_database\RoomWordsSampleV2\app\src\main\AndroidManifest.xml:20:13-45
+27            android:theme="@style/AppTheme.NoActionBar" >
+27-->D:\AndroidStudioProjects\Android-Developer-Fundamentals-Version-2-master-Solutions of CC and HW\10.1_Part_B_Deleting_data_from_a_Room_database\RoomWordsSampleV2\app\src\main\AndroidManifest.xml:21:13-56
+28            <intent-filter>
+28-->D:\AndroidStudioProjects\Android-Developer-Fundamentals-Version-2-master-Solutions of CC and HW\10.1_Part_B_Deleting_data_from_a_Room_database\RoomWordsSampleV2\app\src\main\AndroidManifest.xml:22:13-26:29
+29                <action android:name="android.intent.action.MAIN" />
+29-->D:\AndroidStudioProjects\Android-Developer-Fundamentals-Version-2-master-Solutions of CC and HW\10.1_Part_B_Deleting_data_from_a_Room_database\RoomWordsSampleV2\app\src\main\AndroidManifest.xml:23:17-69
+29-->D:\AndroidStudioProjects\Android-Developer-Fundamentals-Version-2-master-Solutions of CC and HW\10.1_Part_B_Deleting_data_from_a_Room_database\RoomWordsSampleV2\app\src\main\AndroidManifest.xml:23:25-66
+30
+31                <category android:name="android.intent.category.LAUNCHER" />
+31-->D:\AndroidStudioProjects\Android-Developer-Fundamentals-Version-2-master-Solutions of CC and HW\10.1_Part_B_Deleting_data_from_a_Room_database\RoomWordsSampleV2\app\src\main\AndroidManifest.xml:25:17-77
+31-->D:\AndroidStudioProjects\Android-Developer-Fundamentals-Version-2-master-Solutions of CC and HW\10.1_Part_B_Deleting_data_from_a_Room_database\RoomWordsSampleV2\app\src\main\AndroidManifest.xml:25:27-74
+32            </intent-filter>
+33        </activity>
+34
+35        <service
+35-->[androidx.room:room-runtime:2.1.0-beta01] C:\Users\shady\.gradle\caches\transforms-2\files-2.1\9afb7f569757486c4e6862e1a981839b\room-runtime-2.1.0-beta01\AndroidManifest.xml:23:9-25:40
+36            android:name="androidx.room.MultiInstanceInvalidationService"
+36-->[androidx.room:room-runtime:2.1.0-beta01] C:\Users\shady\.gradle\caches\transforms-2\files-2.1\9afb7f569757486c4e6862e1a981839b\room-runtime-2.1.0-beta01\AndroidManifest.xml:24:13-74
+37            android:exported="false" />
+37-->[androidx.room:room-runtime:2.1.0-beta01] C:\Users\shady\.gradle\caches\transforms-2\files-2.1\9afb7f569757486c4e6862e1a981839b\room-runtime-2.1.0-beta01\AndroidManifest.xml:25:13-37
+38
+39        <provider
+39-->[androidx.lifecycle:lifecycle-process:2.2.0-alpha01] C:\Users\shady\.gradle\caches\transforms-2\files-2.1\6d24f60abf8d3f06fa97b5201fbaf5f0\jetified-lifecycle-process-2.2.0-alpha01\AndroidManifest.xml:23:9-27:43
+40            android:name="androidx.lifecycle.ProcessLifecycleOwnerInitializer"
+40-->[androidx.lifecycle:lifecycle-process:2.2.0-alpha01] C:\Users\shady\.gradle\caches\transforms-2\files-2.1\6d24f60abf8d3f06fa97b5201fbaf5f0\jetified-lifecycle-process-2.2.0-alpha01\AndroidManifest.xml:24:13-79
+41            android:authorities="com.shady.roomwordssamplev2.lifecycle-process"
+41-->[androidx.lifecycle:lifecycle-process:2.2.0-alpha01] C:\Users\shady\.gradle\caches\transforms-2\files-2.1\6d24f60abf8d3f06fa97b5201fbaf5f0\jetified-lifecycle-process-2.2.0-alpha01\AndroidManifest.xml:25:13-69
+42            android:exported="false"
+42-->[androidx.lifecycle:lifecycle-process:2.2.0-alpha01] C:\Users\shady\.gradle\caches\transforms-2\files-2.1\6d24f60abf8d3f06fa97b5201fbaf5f0\jetified-lifecycle-process-2.2.0-alpha01\AndroidManifest.xml:26:13-37
+43            android:multiprocess="true" />
+43-->[androidx.lifecycle:lifecycle-process:2.2.0-alpha01] C:\Users\shady\.gradle\caches\transforms-2\files-2.1\6d24f60abf8d3f06fa97b5201fbaf5f0\jetified-lifecycle-process-2.2.0-alpha01\AndroidManifest.xml:27:13-40
+44    </application>
+45
+46</manifest>
